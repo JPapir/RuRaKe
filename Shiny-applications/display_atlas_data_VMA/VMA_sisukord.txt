@@ -1,0 +1,126 @@
+Kaardi nr	Pealkiri	Kaarditüüp	Kaardisisu	The title in English
+1	KAEV : (gen.) KAEVU	Tsitaat	Morfoloogia	A well (NOM and GEN)
+2	KARTULID	Tsitaat	Sõnavara	Potatoes
+3	KELLEGILE	Tsitaat	Sõnavara	For someone (ALL)
+4	KODUNT, KOTTU	Tsitaat	Morfoloogia	From home (ELL), to home (ILL)
+5	KÜLJES	Tsitaat	Sõnavara	Attached to
+6	LÄHEVAD	Tsitaat	Morfoloogia	[They are] going (PERS.IND.PR.PL.2)
+7	MISSUGUNE	Tsitaat	Sõnavara	Which
+8	NAERIS : gen. NAERI	Tsitaat	Morfoloogia	A turnip (NOM and GEN)
+9	NÕGES : NÕGESED	Tsitaat	Morfoloogia	A nettle (SG and PL)
+10	PARTITSIIP- VÕI INFINITIIVKONSTRUKTSIOON	Tsitaat	Konstruktsioon	A Participle or infinitive construction
+11	PASIIVI PREESENS KOLMESILBILISTEL -da-, -ta- TÜVEDEL	Tsitaat	Morfoloogia	The passive present of three syllable words with -da-, -ta- stems
+12	PASTLA PÕIKPAELAD	Tsitaat	Sõnavara	Shoelaces of the peasant shoes
+13	PRAOKIL, POIKVEL	Tsitaat	Sõnavara	Half-open
+14	PÄÄSUKE	Tsitaat	Sõnavara	A swallow
+15	REGIVÄRSID	Tsitaat	Sõnavara	The runo-verses
+16	SAADIK, SAATI	Tsitaat	Sõnavara	Since
+17	SAGEDASTI	Tsitaat	Sõnavara	Often
+18	TOOMINGAS	Tsitaat	Sõnavara	A bird cherry
+19	VUNDAMENT	Tsitaat	Sõnavara	The foundation
+20	ÜTELDAKSE	Tsitaat	Morfoloogia	One says (IPS.IND.PR.PL)
+21	OLNUD	Sümbol	Morfoloogia	[Has] been (PARTICIPLE)
+22	TRANSLATIIV	Sümbol	Morfoloogia	Translative
+23	ABLATIIV	Piirjoontega	Morfoloogia	Ablative
+24	ADVERBIDE -mini, -mi, ... (komp.)	Sümbol	Morfoloogia	The comparative of the -mini, -mi, ... adverbs
+25	AHJU (gen.)	Sümbol	Morfoloogia	An oven (GEN)
+26	ALE, UHT, SÕÕRD	Sümbol	Sõnavara	The clearance of land (for crops, farms and etc)
+27	ALLATIIVI -le, -lle kaasrõh.silbi järel	Viirutustega	Morfoloogia	The allative of -le, -lle after a syllable with secondary stress
+28	ANDIS	Sümbol	Morfoloogia	[He/she] gave (PERS.IND.IPF.SG.3)
+29	ANDNUD	Sümbol	Morfoloogia	[Has] given (PARTICIPLE)
+30	EI OLE	Sümbol	Morfoloogia	Is not
+31	ENESE	Sümbol	Morfoloogia	[Her/his] own (GEN.SG)
+32	ENNAST	Sümbol	Morfoloogia	Yourself (PART.SG)
+33	ENESTE	Sümbol	Morfoloogia	[Their] own (GEN.PL)
+34	ENDID	Sümbol	Morfoloogia	Themselves (PART.PL)
+35	HEINTE	Sümbol	Morfoloogia	Hay (GEN.PL)
+36	HOBUNE	Sümbol	Sõnavara	A horse
+37	HOMMIK	Sümbol	Sõnavara	Morning
+38	JAGU	Sümbol	Sõnavara	A part
+39	JUUR(D)E	Sümbol	Sõnavara	In addition
+40	JÄRV	Sümbol	Sõnavara	A lake
+41	KAEL, KAER, NAEL	Piirjoontega	Morfoloogia	A neck, oats, a nail
+42	KASVANUD	Sümbol	Morfoloogia	[Has] grown (PARTICIPLE)
+43	KATKI	Sümbol	Sõnavara	Broken
+44	KAUDSE KÕNEVIISI OLEVIK	Sümbol	Morfoloogia	Present indirect speech
+45	KAUDU	Sümbol	Sõnavara	Through
+46	KES	Sümbol	Sõnavara	Who
+47	KIRIKU(SSE)	Sümbol	Morfoloogia	Into the church (ILL)
+48	KIRVEID	Sümbol ja viirutused	Morfoloogia	Axes (PART.PL)
+49	KLUSIIL + LIIKVIDA sõna algul: kl-, kr-, pl-, pr-, tr-	Viirutustega	Morfoloogia	A stop consonant + a liquid consonant in the beginning of a word: kl-, kr-, pl-, pr-, tr-
+50	KOLLASE	Sümbol	Morfoloogia	Yellow (GEN)
+51	KOMPARATIIVI -m(pi) : (suure)m	Sümbol	Morfoloogia	Comparative -m(pi) : (suure)m
+52	KOMPARATIIVI -ma (-mpan) : (suure)ma	Sümbol	Morfoloogia	Comparative -ma (-mpan) : (suure)ma
+53	KOMPARATIIVI -m(pi) : (ilusa)m	Sümbol	Morfoloogia	Comparative -m(pi) : (ilusa)m
+54	KOMPARATIIVI -ma (-mban) : (ilusa)ma	Sümbol	Morfoloogia	Comparative -ma (-mban) : (ilusa)ma
+55	KONDITSIONAALI -ksin	Sümbol	Morfoloogia	Conditional -ksin
+56	KORD	Sümbol	Sõnavara	Order, once
+57	KUIV	Sümbol	Sõnavara	Dry
+58	KUIVA (gen.)	Sümbol	Morfoloogia	Dry (GEN)
+59	KUIVANUD	Sümbol	Morfoloogia	Dried (PARTICIPLE)
+60	KUUENDA	Sümbol	Morfoloogia	Sixth (GEN)
+61	KÕIK	Sümbol	Sõnavara	All
+62	KÄES	Sümbol	Sõnavara	In the hands of
+63	KÖIS	Sümbol	Sõnavara	A rope
+64	KÖIE	Sümbol	Morfoloogia	Ropes (GEN)
+65	LATV	Sümbol	Sõnavara	(Tree)top
+66	LEIL	Sümbol	Sõnavara	The steam in the sauna
+67	LEIVA	Sümbol	Morfoloogia	Breads (GEN)
+68	LOEB	Sümbol	Morfoloogia	[He/She] reads (PERS.IND.PR.SG.3)
+69	LÕUNA	Sümbol	Sõnavara	"South; Lunch"
+70	LÕUNA (gen.)	Sümbol	Morfoloogia	"South; Lunch (GEN)"
+71	LÄHEB	Sümbol	Morfoloogia	[He/She] goes (PERS.IND.PR.SG.3)
+72	MEIE (gen.)	Sümbol	Morfoloogia	Ours (GEN)
+73	MINU	Sümbol	Morfoloogia	Mine
+74	MIND	Sümbol	Morfoloogia	Me
+75	MUUDE	Sümbol	Morfoloogia	Other (GEN.PL)
+76	MÕÕT	Sümbol	Sõnavara	Size
+77	NEMAD	Sümbol	Sõnavara	They
+78	NENDE	Sümbol	Morfoloogia	Their
+79	NÕNDA	Sümbol	Sõnavara	Thus
+80	NÄINUD	Sümbol	Morfoloogia	[Have] seen (PARTICIPLE)
+81	NÄLJASE	Sümbol	Morfoloogia	Hungry (GEN) / of a hungry [person] (GEN)
+82	ODER	Sümbol	Sõnavara	Barley
+83	ON : ON	Sümbol	Morfoloogia	Is : are
+84	OSTSIN	Sümbol	Morfoloogia	[I] bought (PERS.IND.IPF.SG.1)
+85	PALAKAS	Sümbol	Sõnavara	A bed sheet
+86	PALJU	Sümbol	Sõnavara	A lot
+87	PARANDADA	Piirjoontega	Morfoloogia	To fix (INFINITIVE)
+88	PARANDATI	Sümbol	Morfoloogia	[Has been] fixed (IPS.IND.IPF.PL)
+89	PARANDATUD	Sümbol	Morfoloogia	Fixed (PARTICIPLE)
+90	PART.PL. 2-silb.tüvedel:-si(d) jm.	Sümbol	Morfoloogia	The partitive plural of the two-syllable stems: -si(d) etc
+91	PART.PL. 3-silb. a-tüvedel	Sümbol	Morfoloogia	The partitive plural of the three-syllable stems ending with 'a'
+92	PART.PL. 3-silb. e-tüvedel	Sümbol	Morfoloogia	The partitive plural of the three-syllable stems ending with 'e'
+93	PART.PL. 3-silb. u-,o-tüvedel	Sümbol	Morfoloogia	The partitive plural of the three-syllable stems ending with 'u' or 'o'
+94	PERSOONI LÕPP: sing.1.pers	Sümbol	Morfoloogia	The suffix of PERS.SG.1
+95	PIKKADE VOKAALIDE a, ä, o, e, ö, ü DIFTONGIMINE	Piirjoontega	Morfoloogia	The diphthongs of long vocals a, ä, o, e, ö, ü
+96	PLUURALI GEN.: jalg(ad)e, jalgu	Sümbol	Morfoloogia	The plural genitive of 'leg'
+97	PÕDER	Sümbol	Sõnavara	A moose
+98	PÕRAND	Sümbol	Sõnavara	The floor
+99	PÄEV	Sümbol	Sõnavara	A day
+100	PÄEVI	Sümbol	Morfoloogia	Days (PART.PL)
+101	RÕHTAED	Sümbol	Sõnavara	A wooden fence
+102	SAADA (inf.)	Sümbol	Morfoloogia	To get (INFINITIVE)
+103	SAJA (:SADA)	Sümbol	Morfoloogia	Hundred (GEN)
+104	SAJAB	Sümbol	Morfoloogia	[It] rains (PERS.IND.PR.SG.3)
+105	SAUNA (gen.)	Sümbol	Morfoloogia	A sauna (GEN)
+106	SEAL	Sümbol	Sõnavara	There
+107	SEES	Sümbol	Sõnavara	Inside
+108	SIIA	Sümbol	Sõnavara	Here
+109	SINNA	Sümbol	Sõnavara	There (ILL)
+110	SISEKADU jm	Piirjoontega	Morfoloogia	Syncope
+111	SITKMED	Sümbol	Sõnavara	
+112	SOHU	Sümbol	Morfoloogia	[Into] the swamp (ILL)
+113	SUVI	Sümbol	Sõnavara	Summer
+114	TALV	Sümbol	Sõnavara	Winter
+115	TEHA	Sümbol	Morfoloogia	To do (INFINITIVE)
+116	TEIVAS	Sümbol	Sõnavara	A pole
+117	-tk-	Piirjoontega	Morfoloogia	The interfix -tk-
+118	TULDE	Sümbol	Morfoloogia	[Into] the fire (ILL)
+119	UNGAS	Sümbol	Sõnavara	A triangular space between the roof and the sealing of a thatched roof
+120	UNUSTAMA	Sümbol	Sõnavara	To forget (SUPINE)
+121	VÕTSID (pl.3.pers)	Sümbol	Morfoloogia	[They] took (PERS.IND.IPF.PL.3)
+122	VÕÕRAS	Sümbol	Sõnavara	A stranger
+123	VÖÖSID	Sümbol	Morfoloogia	Belts (PART.PL)
+124	ÕHTU	Sümbol	Sõnavara	Evening
+125	ÖÖBIK	Sümbol	Sõnavara	Nightingale (NOM)

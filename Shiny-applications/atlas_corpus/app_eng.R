@@ -3,7 +3,7 @@
 # One of the input files is a frequency table ("koondfreqdata.csv") in UTF-8 encoding and with the following structure: Parish_id;ei_ole;pole;sui;suvi;suurem;suuremb;Dialect_en. 
 # Excerpts of Kristel Uiboaed's scripts have been used for plotting linguistic data using shapefiles and ggplot.
 
-# 1. Load all the necessary packages (if the packages are not yet installed, so so using install.packages("packagename"))
+# 1. Load all the necessary packages (if the packages are not yet installed, do so using install.packages("packagename"))
 library(shiny)
 library(rgdal)
 library(rgeos)
