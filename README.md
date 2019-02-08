@@ -6,7 +6,7 @@ RuRaKe is a project that aimed to add geographical information to the existing c
 The subfolder *Corpus-correction-documentation* contains an attribute tabel and a log file. *CED-header-info* includes entries of CED that have geographical information (the longitude and latitude of informants residence) already attached to them. *CED-header-geoinfo-correction- log* records the changes made to the CED attribute table.
 
 # Manuscript maps
-The subfolder *Saareste-käsikirjalised* contains the documentation of the scanned manuscript maps. *Saareste_käsikirjalised_puhas.xlsx* contains the documentation in Estonian on one sheet and in English on the other sheet. The csv-files are copies of the same sheets.
+The subfolder *Saareste-käsikirjalised* contains the documentation of the scanned manuscript maps. *Saareste_käsikirjalised_puhas.xlsx* contains the documentation in Estonian on one sheet and in English on the other sheet. The csv-files are copies of the same sheets. The maps themselves can be found [here](http://rurake.keeleressursid.ee/index.php/andrus-saarestes-unpublished-dialect-maps/).
 
 # Atlas of Estonian Dialects, 1938/1941
 The subfolder *Saareste-murdeatlas* contains the documentation and shapefiles of Saareste's "Eesti murdeatlas" (SMA).
